@@ -3,7 +3,5 @@ bbb
 ccc
 ddd
 eee
-zzz
-xxx
-yyy
 hhh
+DUPA haha
